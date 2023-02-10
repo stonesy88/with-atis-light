@@ -1893,7 +1893,7 @@ video {
 
 .divide-purple-600 > :not([hidden]) ~ :not([hidden]) {
   --tw-divide-opacity: 1;
-  border-color: rgba(124, 58, 237, var(--tw-divide-opacity));
+  border-color: rgba(0, 46, 53, var(--tw-divide-opacity));
 }
 
 .divide-purple-700 > :not([hidden]) ~ :not([hidden]) {
